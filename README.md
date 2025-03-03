@@ -8,7 +8,7 @@ Go ahead and explore to discover the truth.
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-About Me
+<h3> About Me :dark_sunglasses: </h3>
 I’m Davide Marino, a coder in search of the truth. In this simulation of life, I’ve embraced the world of programming, where every line of code reveals new possibilities. Like Neo, I’m on a journey to explore, learn, and break boundaries.
 
 I specialize in Web Development, and my goal is to build innovative projects that make an impact, one function at a time.
