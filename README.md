@@ -1,5 +1,5 @@
 ## Hello, Welcome to My Matrix
-You took the red pill🔴 you stayed in Wonderland, and I am showing you how deep the rabbit hole goes ➡️🐇🕳️
+You took the red pill🔴 you stayed in Wonderland, and I am showing you how deep the rabbit hole goes 🐇🕳️
 
 Do you want to know what it is?
 
