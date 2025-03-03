@@ -10,7 +10,7 @@ Go ahead and explore to discover the truth.
 
 <h2> About Me :dark_sunglasses: </h2>
 
-<h3> I’m Davide Marino, a coder in search of the truth. <h3>
+<h3> I’m Davide Marino, a coder in search of the truth. </h3>
 
 In this simulation of life, I’ve embraced the world of programming, where every line of code reveals new possibilities.
 
