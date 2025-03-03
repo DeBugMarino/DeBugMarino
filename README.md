@@ -19,3 +19,9 @@ Like Neo, I’m on a journey to explore, learn, and break boundaries.
 <h3>I specialize in Web Development, and my goal is to build innovative projects that make an impact, one function at a time.</h3>
 
 Just like in Matrix, I believe the code is everywhere. It’s in the systems we interact with, the problems we solve, and the future we’re shaping.
+
+<h2> Skills </h2>
+
+In this vast Matrix of technology, I am continuously learning and evolving.
+
+My skills and knowledge allow me to explore, analyze, and shape the digital world. Here’s how I navigate through the code:
