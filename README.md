@@ -20,8 +20,12 @@ Like Neo, I’m on a journey to explore, learn, and break boundaries.
 
 Just like in Matrix, I believe the code is everywhere. It’s in the systems we interact with, the problems we solve, and the future we’re shaping.
 
-<h2> Skills </h2>
+<h2> Skills 🔧 </h2>
 
-In this vast Matrix of technology, I am continuously learning and evolving.
+In this Matrix of technology, I'm still learning and discovering the building blocks that shape the digital world. Here's how I navigate through the code:
 
-My skills and knowledge allow me to explore, analyze, and shape the digital world. Here’s how I navigate through the code:
+Web Development – [HTML, CSS, JavaScript, React, Node.js]
+As a web developer in training, I’m just beginning to uncover the secrets behind building both the frontend and backend of web applications. Much like Neo discovering the layers of the Matrix, I’m laying the foundation to create responsive, dynamic websites that seamlessly connect users with the digital world.
+
+Data Analysis (Beginner) – [Python, Pandas, Excel, Basic Data Visualization]
+In the realm of data, I’m starting to learn how to decode complex patterns and extract meaningful insights. Like Neo learning to "see" the code that powers the Matrix, I’m mastering the basics of data analysis to uncover hidden truths within datasets.
