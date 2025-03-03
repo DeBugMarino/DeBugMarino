@@ -1,5 +1,5 @@
 ## Hello, Welcome to My Matrix
-"You took the red pill—you stayed in Wonderland, and I showed you how deep the rabbit hole goes."
+"You took the red pill—you stayed in Wonderland, and I am showing you how deep the rabbit hole goes"
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <!--
 **DeBugMarino/DeBugMarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
