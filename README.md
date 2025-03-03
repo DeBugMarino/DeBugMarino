@@ -24,14 +24,20 @@ Just like in Matrix, I believe the code is everywhere. It’s in the systems we 
 
 In this Matrix of technology, I'm still learning and discovering the building blocks that shape the digital world. Here's how I navigate through the code:
 
-Web Development 
+##### Web Development 
 As a web developer in training, I’m just beginning to uncover the secrets behind building both the frontend and backend of web applications. Much like Neo discovering the layers of the Matrix, I’m laying the foundation to create responsive, dynamic websites that seamlessly connect users with the digital world.
 
 ##### Some of the technologies I have worked with
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 Data Analysis (Beginner) – [Python, Pandas, Excel, Basic Data Visualization]
 In the realm of data, I’m starting to learn how to decode complex patterns and extract meaningful insights. Like Neo learning to "see" the code that powers the Matrix, I’m mastering the basics of data analysis to uncover hidden truths within datasets.
+
 ##### Some of the technologies I have worked with
+
