@@ -1,4 +1,6 @@
-## Hello, Welcome to My Matrix 
+## Hello, Welcome to My Matrix
+"You take the red pill—you stay in Wonderland, and I show you how deep the rabbit hole goes."
+"Remember: all I’m offering is the truth. Nothing more."
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <!--
 **DeBugMarino/DeBugMarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
