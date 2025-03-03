@@ -36,7 +36,10 @@ As a web developer in training, I’m just beginning to uncover the secrets behi
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-Data Analysis (Beginner) 
+[Check out my latest project](https://debugmarino.github.io/Swappie_Home/) to see how I’m building digital experiences.
+
+
+##### Data Analysis (Beginner) 
 In the realm of data, I’m starting to learn how to decode complex patterns and extract meaningful insights. Like Neo learning to "see" the code that powers the Matrix, I’m mastering the basics of data analysis to uncover hidden truths within datasets.
 
 ##### Some of the technologies I have worked with
@@ -46,3 +49,10 @@ In the realm of data, I’m starting to learn how to decode complex patterns and
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
+
+[Check out my latest project](https://debugmarino.github.io/DavideMarinoPortfolioDataAnalysis/) to see how I’m building digital experiences.
+
+##### Digital Marketing 
+In the digital world, I’m starting to see the hidden code behind consumer behavior and online interactions. Like Neo discovering the layers of the Matrix, I’m learning how to use data and strategies to connect brands with their audience in a more impactful and meaningful way.
+
+[Check out my latest project](https://diagnostic-millennium-bd6.notion.site/Ciao-Sono-Davide-Marino-11c5a27b58b88012b3a9d7227d326f0b) to see how I’m building digital experiences.
