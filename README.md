@@ -1,9 +1,9 @@
 ## Hello, Welcome to My Matrix
-<h5>You took the red pill🔴 you stayed in Wonderland, and I am showing you how deep the rabbit hole goes 🐇🕳️
+You took the red pill🔴 you stayed in Wonderland, and I am showing you how deep the rabbit hole goes 🐇🕳️
 
 Do you want to know what it is?
 
-Go ahead and explore to discover the truth.</h5>
+Go ahead and explore to discover the truth.
 
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
@@ -16,6 +16,6 @@ In this simulation of life, I’ve embraced the world of programming, where ever
 
 Like Neo, I’m on a journey to explore, learn, and break boundaries.
 
-I specialize in Web Development, and my goal is to build innovative projects that make an impact, one function at a time.
+<h3>I specialize in Web Development, and my goal is to build innovative projects that make an impact, one function at a time.</h3>
 
 Just like in Matrix, I believe the code is everywhere. It’s in the systems we interact with, the problems we solve, and the future we’re shaping.
