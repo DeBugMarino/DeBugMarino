@@ -36,7 +36,7 @@ As a web developer in training, I’m just beginning to uncover the secrets behi
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-Data Analysis (Beginner) – [Python, Pandas, Excel, Basic Data Visualization]
+Data Analysis (Beginner) 
 In the realm of data, I’m starting to learn how to decode complex patterns and extract meaningful insights. Like Neo learning to "see" the code that powers the Matrix, I’m mastering the basics of data analysis to uncover hidden truths within datasets.
 
 ##### Some of the technologies I have worked with
