@@ -11,6 +11,7 @@ Go ahead and explore to discover the truth.
 <h2> About Me :dark_sunglasses: </h2>
 
 <h3> I’m Davide Marino, a coder in search of the truth. </h3>
+[Discover more about my journey in the Matrix](https://www.linkedin.com/in/davide-m-69b03a2b0/) to learn about my skills, experiences, and education.
 <a href="https://www.linkedin.com/in/davide-m-69b03a2b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 In this simulation of life, I’ve embraced the world of programming, where every line of code reveals new possibilities.
