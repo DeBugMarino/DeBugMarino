@@ -1,4 +1,4 @@
-## Hi dear, welcome to my Matrix 
+## Hello, Welcome to My Matrix 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <!--
 **DeBugMarino/DeBugMarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
