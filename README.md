@@ -40,4 +40,9 @@ Data Analysis (Beginner) – [Python, Pandas, Excel, Basic Data Visualization]
 In the realm of data, I’m starting to learn how to decode complex patterns and extract meaningful insights. Like Neo learning to "see" the code that powers the Matrix, I’m mastering the basics of data analysis to uncover hidden truths within datasets.
 
 ##### Some of the technologies I have worked with
-
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
